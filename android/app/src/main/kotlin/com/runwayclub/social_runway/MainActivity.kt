@@ -1,0 +1,6 @@
+package com.runwayclub.social_runway
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

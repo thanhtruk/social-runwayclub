@@ -1,0 +1,39 @@
+name: runway_club_social
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  get: ^4.1.4
+  intl: ^0.17.0
+  http: ^0.13.6
+  github_sign_in: ^0.0.5-dev.4
+  firebase_core: ^2.24.0
+  firebase_auth: ^4.15.0
+  sign_in_button: ^3.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/runway-512-logo.png
+    - assets/images/postimage1.png
+    - assets/images/postimage2.png
+    - assets/images/avt1.jpg
+    - assets/images/avt2.jpg
+    - assets/images/icon-github.png
+

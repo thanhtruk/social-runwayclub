@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "60633949108",
+    "project_id": "social-runwayclub",
+    "storage_bucket": "social-runwayclub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60633949108:android:0abcb0bb299dca23df08e1",
+        "android_client_info": {
+          "package_name": "com.runwayclub.social_runway"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi5ZxiCzwm9q87ay8s5YzglouGGBDnq5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
